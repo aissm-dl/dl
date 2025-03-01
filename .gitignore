@@ -64,6 +64,7 @@ myenv/
 *.db
 *.rdb
 data/
+data_source/
 
 # Pycharm
 .idea
